@@ -20,5 +20,8 @@
 	"homepage": "https://github.com/jaszeee/degrade#readme",
 	"devDependencies": {
 		"parcel": "^2.8.3"
+	},
+	"dependencies": {
+		"color-convert": "^2.0.1"
 	}
 }
